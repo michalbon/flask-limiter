@@ -5,5 +5,5 @@ line-length=100
 name='flask-limiter'
 version='3.5.0'
 dependencies = [
-    'limits @ git+https://github.com/michalbon/limits.git@master"',
+    'limits @ git+https://github.com/michalbon/limits.git@master',
 ]
