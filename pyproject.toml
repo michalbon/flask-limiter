@@ -1,9 +1,2 @@
 [tool.ruff]
 line-length=100
-
-[project]
-name='flask-limiter'
-version='3.5.0'
-dependencies = [
-    'limits @ git+https://github.com/michalbon/limits.git@master',
-]
