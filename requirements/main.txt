@@ -1,4 +1,4 @@
-git+https://github.com/michalbon/limits==3.6.0
+git+https://github.com/michalbon/limits
 Flask>=2
 ordered-set>4,<5
 rich>=12,<14
